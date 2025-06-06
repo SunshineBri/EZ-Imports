@@ -1,0 +1,121 @@
+
+.admin-panel {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 30px;
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+  background-color: #ffffff;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+
+.admin-panel h2 {
+  text-align: center;
+  color: #333;
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 25px;
+}
+
+.admin-panel input[type="text"],
+.admin-panel input[type="number"],
+.admin-panel textarea,
+.admin-panel input[type="file"] {
+  display: block;
+  width: calc(100% - 20px);
+  margin-bottom: 20px;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 16px;
+  transition: border 0.3s;
+}
+
+.admin-panel textarea {
+  resize: vertical;
+}
+
+.admin-panel input[type="text"]:focus,
+.admin-panel input[type="number"]:focus,
+.admin-panel textarea:focus {
+  border-color: #4caf50;
+  outline: none;
+}
+
+.admin-panel button {
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s, transform 0.2s;
+  display: block;
+  width: 100%;
+  margin-top: 10px;
+}
+
+.admin-panel button:hover {
+  background-color: #45a049;
+  transform: translateY(-2px);
+}
+
+.product-list {
+  margin-top: 30px;
+}
+
+.product-list li {
+  list-style-type: none;
+  padding: 20px;
+  margin-bottom: 15px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #f7f7f7;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+}
+
+.product-list h4 {
+  margin: 0 0 10px;
+  color: #222;
+  font-size: 20px;
+}
+
+.product-list p {
+  margin: 0 0 10px;
+  color: #555;
+  font-size: 16px;
+}
+
+.product-list .product-images {
+  display: flex;
+  gap: 10px;
+  margin-top: 15px;
+  flex-wrap: wrap;
+}
+
+.product-list img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+}
+
+.product-list button {
+  background-color: #e74c3c;
+  color: #fff;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.3s, transform 0.2s;
+}
+
+.product-list button:hover {
+  background-color: #c0392b;
+  transform: translateY(-2px);
+}
