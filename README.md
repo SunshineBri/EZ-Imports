@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/EZ logo.png" alt="EZ Imports Logo" width="150" />
+  <img src="EZ Imports/src/assets/EZ logo.jpg" alt="EZ Imports Logo" width="150" />
 </p>
 
 # EZ Imports
@@ -43,13 +43,13 @@ This project is currently in development and showcases my front-end development 
 ## Screenshots
 
 ### Homepage
-![Homepage Screenshot](C:\Users\Brittney Dhanoo\OneDrive\Desktop\EZ Imports\EZ Imports\src\assets\Homepage.png)
+<img src="EZ Imports/src/assets/Homepage.png" />
 
 ### Product Listings
-![Product Cards Screenshot](C:\Users\Brittney Dhanoo\OneDrive\Desktop\EZ Imports\EZ Imports\src\assets\Product listing.png)
+<img src="EZ Imports/src/assets/Product listing.png" />
 
 ### Mobile View
-![Mobile View Screenshot](C:\Users\Brittney Dhanoo\OneDrive\Desktop\EZ Imports\EZ Imports\src\assets\Mobile Homepage.png)
+<img src="EZ Imports/src/assets/Mobile Homepage.png" width="250" />
 
 ---
 
