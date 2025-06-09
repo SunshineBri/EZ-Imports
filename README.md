@@ -35,7 +35,7 @@ This project is currently in development and showcases my front-end development 
 | Hover and scroll animations       | In Progress    |
 | Category filtering                | Planned        |
 | Contact/About section             | Completed / In  Progress |
-| Mobile responsiveness             | Partial        |
+| Mobile responsiveness             | Partial / In Progress    |
 | Final styling and polish          | In Progress    |
 
 ---
